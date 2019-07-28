@@ -1,0 +1,1 @@
+G:\C#\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe.config
